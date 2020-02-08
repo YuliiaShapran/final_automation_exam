@@ -1,0 +1,6 @@
+.idea/
+target/
+build/
+.allure/
+allure-results/
+final_automation_exam.iml
